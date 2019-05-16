@@ -11,7 +11,7 @@ Introduction
 This sample demonstrates how to create an accessible application, showing
 how to add accessibility to both framework and custom widgets.
 
-To run this sample as intended you will need to turn on TalkBack (or another text to speach system)
+To run this sample as intended you will need to turn on TalkBack (or any other text to speech system)
 on your Android device. Go to Settings > Accessibility > TalkBack to turn TalkBack on.
 
 When you run the sample with TalkBack mode on, TalkBack will read aloud the
@@ -20,8 +20,8 @@ description of the in-focus widget.
 Pre-requisites
 --------------
 
-- Android SDK 25
-- Android Build Tools v25.0.2
+- Android SDK 27
+- Android Build Tools v27.0.2
 - Android Support Repository
 
 Screenshots
@@ -50,7 +50,7 @@ submitting a pull request through GitHub. Please see CONTRIBUTING.md for more de
 License
 -------
 
-Copyright 2016 The Android Open Source Project, Inc.
+Copyright 2017 The Android Open Source Project, Inc.
 
 Licensed to the Apache Software Foundation (ASF) under one or more contributor
 license agreements.  See the NOTICE file distributed with this work for
